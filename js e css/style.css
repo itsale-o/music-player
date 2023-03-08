@@ -3,6 +3,8 @@ body{
         rgb(68,80,106),
         rgb(20,21,23)
         );
+    min-width: 320px;
+    max-width: 1440px;
     height: 147vh;
     color: white;
     font-family: sans-serif;
