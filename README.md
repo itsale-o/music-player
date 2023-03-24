@@ -9,3 +9,8 @@ Esse projeto foi desenvolvido com JavaScript, HTML e CSS. É um tocador de músi
 (versão mobile). Nele contém 10 músicas e você pode curti-las, colocar em modo aleatório, repetir, avançar e voltar músicas.
 
  here is the link to my project --> <a href= "https://itsale-o.github.io/music-player/">My Music Player</a> :musical_note: 
+ 
+ 
+## This is how desktop and mobile version look like
+
+![]()
