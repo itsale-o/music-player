@@ -13,4 +13,10 @@ Esse projeto foi desenvolvido com JavaScript, HTML e CSS. É um tocador de músi
  
 ## This is how desktop and mobile version look like
 
-![](/imagens/music_player)
+![](imagens/music_player.png)
+
+<div align="center">
+
+ ![](imagens/music_player_mobile.png)
+
+</div>
